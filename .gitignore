@@ -1,3 +1,4 @@
 .terraform/
 terraform-provider-edgecast
 terraform.tfstate*
+main.tf
